@@ -36,7 +36,7 @@ The cube responds to your hand movements in real-time:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/gesture-3d-cube-controller.git
+   git clone https://github.com/ridhamjain28/gesture-3d-cube-controller.git
    cd gesture-3d-cube-controller
    ```
 
@@ -49,6 +49,8 @@ The cube responds to your hand movements in real-time:
    ```bash
    python simple_cube_control.py
    ```
+   
+   Or simply double-click `run_cube.bat` on Windows!
 
 ## 🎮 Controls
 
@@ -80,6 +82,7 @@ gesture-3d-cube-controller/
 ├── earth_controller.py       # 3D Earth visualization (Cesium)
 ├── config.py                 # Configuration settings
 ├── requirements.txt          # Python dependencies
+├── run_cube.bat             # Windows launcher
 └── README.md                 # This file
 ```
 
@@ -179,13 +182,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Ridham Jain
 
 ## 📧 Contact
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Issues: [Report a bug](https://github.com/YOUR_USERNAME/gesture-3d-cube-controller/issues)
+- GitHub: [@ridhamjain28](https://github.com/ridhamjain28)
+- Issues: [Report a bug](https://github.com/ridhamjain28/gesture-3d-cube-controller/issues)
 
 ---
 
 **⭐ If you found this project helpful, please give it a star!**
+
