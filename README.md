@@ -24,6 +24,20 @@ The cube responds to your hand movements in real-time:
 - **Spread** your fingers wide to zoom in
 - **Close** your hand into a fist to zoom out
 
+### ✨ **NEW: Enhanced Version Available!**
+
+Check out the **enhanced version** with amazing features:
+- 🎨 **5 Different 3D Objects** (Cube, Pyramid, Sphere, Torus, Tetrahedron)
+- ⚙️ **Physics Engine** with gravity and momentum
+- ✨ **Particle Effects** for visual feedback
+- 🎬 **Recording & Playback** of gesture sequences
+- 📋 **Interactive UI Menu**
+- 🎓 **Comprehensive Learning Guide** for students
+
+Run it: `python enhanced_controller.py`
+
+See `LEARNING_GUIDE.md` for tutorials and learning resources!
+
 ## 🚀 Quick Start
 
 ### Prerequisites
