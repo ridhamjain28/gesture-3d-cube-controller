@@ -1,0 +1,20 @@
+# Gesture-Controlled Earth Navigation System
+# Python Dependencies - OPTIMIZED FOR 7GB RAM
+
+# Core Computer Vision
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Numerical Computing
+numpy>=1.24.0
+
+# System Monitoring (for performance check)
+psutil>=5.9.0
+
+# Web Framework (for Earth visualization) - OPTIONAL
+# flask>=3.0.0
+
+# Optional dependencies - COMMENTED OUT FOR BASIC VERSION
+# selenium>=4.15.0
+# pyautogui>=0.9.54
+# pillow>=10.0.0
